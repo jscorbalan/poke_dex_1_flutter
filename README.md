@@ -1,1 +1,1 @@
-# poke_dex_1_flutter
+# POKE DEX project
